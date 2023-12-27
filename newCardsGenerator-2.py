@@ -43,7 +43,7 @@ root = ""
 
 def printCard(materia, lecture):
     
-    cardFileName = root + materia + "\\cards\\" + lecture 
+    cardFileName = root + "\\" + materia + "cards\\" + lecture 
     #print(cardFileName)
     
     file = open(cardFileName, "r")
@@ -68,12 +68,12 @@ def getLectureName():
     global materia              #materia = inputMateria.get(1.0, "end-1c")
     
     #setting the path: materia = "SO"
-    path = root + materia + "\\cards\\"
+    path = root + "\\" + materia + "cards\\"
     filename = os.listdir(path) #ottieni l'array dei nomi dei file
     
     #check existance of lecture
     if int(numeroLez) > len(filename):
-        print("non c'è questa lezione")
+        lblCard.config(text = "file di domande inesistente")
     
     #searching lecture
     #la regola testata è: 8:10 per doppia cifra, se cifra singola esce >>> 3_
@@ -99,34 +99,35 @@ def generaCommenti():
 ###############################################################################
 inputMateria = IntVar(frame, 1)
 
+#se sono l'admin, allora sta stringa deve essere vuota
 materia = ''
-'''
-def selE1():
+
+def sel8a():
     global materia
-    materia = "E1"
+    materia = ""
     #print(materia)
 
-def selST():
+def selgiovy():
     global materia
-    materia = "ST"
+    materia = "giovy-"
     #print(materia)
 
 
 Radiobutton(frame, 
-                text = "E1", 
+                text = "8a", 
                 variable = inputMateria,
                 value = 1,
-                command=selE1
-                ).pack(anchor=W, ipadx=5, ipady=5)
+                command=sel8a
+                ).pack(anchor=W, ipadx=5, ipady=5, padx=10, pady=0)
 
 
 Radiobutton(frame, 
-                text = "ST", 
+                text = "giovy", 
                 variable = inputMateria,
                 value = 0,
-                command=selST
-                ).pack(anchor=W, ipadx=5, ipady=5, side=LEFT)
-'''
+                command=selgiovy
+                ).pack(anchor=W, ipadx=5, ipady=5, padx=10, pady=5)
+
 ###############################################################################
 ###############################################################################
 # numero Lezione
@@ -142,13 +143,13 @@ w = tk.Scale(frame, from_=1, to=35, variable=v1, orient=HORIZONTAL, width=20,
 # Label Creation filename
 lblFile = tk.Label(frame, text = "[file]")
 lblFile.pack()
-lblFile.place(y=170)   
+lblFile.place(y=230)   
 
 #######################################
 # Label Creation card
 lblCard = tk.Label(frame, text = "[Risposta in Slide num]: [Quest]")
 lblCard.pack()
-lblCard.place(y=200)   
+lblCard.place(y=260)   
 
 ###############################################################################
 ###############################################################################
