@@ -1,0 +1,15 @@
+S2: Quali sono le tecnollogie multi-processore?
+S7: Quali sono i meccanismi di assegnazione nelle tecnologie SMP? Spiegarne vantaggi e svantaggi
+S9: Quali sono vantaggi e svantaggi del load sharing?
+S8: Quali sono i meccanismi di assgenazione dei processi ai processori?
+S9: Cos'è la CPU affinitiy?
+S10: Quale algoritmo di assegnazione dei processi ai processori adotta Linux? Che vincolo impone?
+S11: Che cos'è il nice value?
+S13: In che consiste l'algoritmo O(1)? Perchè si chiama così?
+S14: Su che struttura dati si basa l'algoritmo O(1)?
+S15: Come viene gestita la priorità nell'algoritmo O(1)? Che legame intercorre tra priorità e time slice?
+S17: Negli algoritmi Fair Scheduling come viene scelto il quanto di tempo?
+S18: Su che struttura dati si basa l'algoritmo CFS?
+S19: Come gestire la priorità nell'algoritmo CFS? Che cos'è la targeted latency?
+S19: Nell'algoritmo CFS c'è rischio di overhead?
+S20: Cosa sono i cgroups?

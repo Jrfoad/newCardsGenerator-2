@@ -1,0 +1,10 @@
+S2: A che serve creare la specifica di un modulo?
+S3: Che ruolo ha il preprocessore?
+S4: 
+S5: Quali sono le varie fasi del ciclo di sviluppo?
+S7: Qual'è la differenza tra dichiarazione e definizione?
+S13: Da cosa è costituita una regola del makefile?
+S18: Com'è fatta una libreria?
+S20: Qual'è lo svantaggio di una libreria statica?
+S21: Qual'è il vantaggio delle librerie dinamiche?
+S18: Qual'è la differenza tra librerie statiche e dinamiche?

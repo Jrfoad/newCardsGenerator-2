@@ -1,0 +1,15 @@
+S2: Qual'è la differenza principale tra CPU-Bound e I/O-Bound?
+S3: Che cos'è lo scheduler? Di cosa si occupa?
+S4: Quali sono i vari tipi di scheduler dei processi?
+S5: Qual'è lo scopo dello scheduler a lungo termine?
+S8: Che cos'è la starvation?
+S9: Quale tra un algoritmo con preemption e un algoritmo senza preemption è più a rischio di starvation?
+S10: Quali sono i parametri per un algoritmo user-oriented e uno system-oriented?
+S17: Quanto dovrebbe essere il quanto di tempo ideale?
+S13: Quali sono vantaggi e svantaggi dell'algoritmo FCFS?
+S16: Quali sono vantaggi e svantaggi dell'algoritmo R-R?
+S19: Quali sono vantaggi e svantaggi dell'algoritmo SPN?
+S22: In cosa differisce l'algoritmo SRT dal SPN? Quali vantaggi e svantaggi?
+S23: Come è implementato lo scheduler a priorità?
+S24: Come avviene il feedback nello scheduler a priorità?
+S25: Come compensare la starvation causata da uno scheduling a priorità?

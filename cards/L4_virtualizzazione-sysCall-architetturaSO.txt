@@ -1,0 +1,9 @@
+S4: Spiegare la virtualizzazione a livello kernel
+S6: Spiegare la virtualizzazione della memoria in breve
+S8: Spiegare la virtualizzazione delle periferiche in breve
+S8: Spiegare la virtualizione al livello file system in breve
+S11: Che cos'è una system call? E perchè sono necessarie?
+S14: Come viene invocata una system call e come viene gestita?
+S21: Cosa si intende per "real time" visualizzato grazie al comando time nella misurazione di tempo di un processo?
+S23: Quali sono i vantaggi della modularità del SO?
+S29: Qualè lo svantaggio dei microkernel?

@@ -1,0 +1,11 @@
+S2: Qual'è la differenza tra programma e processo?
+S4: Qual'è l'assunzione necessaria per poter avere un semplice modello a due stati?
+S5: Che vantaggio offre il modello a tre stati?
+S7: Che cos'è lo swapping e a che serve? Come cambia il modello a stati?
+S8: A che serve uno stato zombie?
+S9: Quale può essere una definizione di context switch? Cos'è il contesto di un processo? Quest'ultimo, dove è salvato?
+S14: Quanti PCB esistono? Se sono più di uno, dove sono salvati?
+S18: Come fa il SO a tenere traccia dei processi nel sistema? Che struttura dati utilizza?
+S19: Per quale motivo può avvenire un pre-rilascio?
+S19: La coda dei processi bloccati è una coda FIFO?
+S19: a quali processi pronti si tende a dare priorità? Un processo sbloccato tende ad essere messo in coda o testa nella coda dei processi pronti?

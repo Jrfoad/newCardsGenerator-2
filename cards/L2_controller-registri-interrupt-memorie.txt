@@ -1,0 +1,9 @@
+S2: Come fa la CPU ad interagire con le periferiche di I/O?
+S3: Come è fatto e come funziona un controller?
+S4: Qual'è la differenza tra polling e Interrupt-based? Cos'è il busy waiting?
+S6: Spiegare i diversi modi di accedere ai registri del controller
+S10: Qual'è la differenza tra interrupt sincrone e asincrone?
+S11: Spiegare cosa sono le interrupt richieste
+S15: Come avviene la gestione di un interrupt?
+S18: Perchè il caching è efficace?
+S20: Qual'è la differenza tra selezione lineare e associativa?

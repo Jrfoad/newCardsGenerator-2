@@ -1,0 +1,6 @@
+S3: Qual'è l'obietttivo di un sistema operativo?
+S3: Quale può essere una definizione di sistema operativo?
+S10: Qual'è la differenza tra batch monoprogrammato e multiprogrammato?
+S11: Qual'è la differenza tra multiprogrammazione e time sharing?
+S13: Come avviene il time sharing?
+S13: Quali sono vantaggi e svantaggi dei time sharing?
