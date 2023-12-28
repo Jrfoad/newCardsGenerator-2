@@ -1,0 +1,29 @@
+S2: Quali sono le 3 tecnologie multiprocessore?
+S3: Quale è la struttura SMP? Rappresentala graficamente.
+S4: Come è fatto un processore multicore? Rappresentalo graficamente.
+S5: Che vantaggio ha avere dei core virtuali?
+S6: Quali sono le due scelte di design da fare per SMP?
+S7: Quali sono i due possibili approcci per l'assegnazione della CPU su cui eseguire il kernel? Quali sono I loro pro e contro?
+S8: Quali sono i due approcci per l'assegnazione dei processi ai processori?
+S8: Quale è il problema dell'approccio dell'assegnazione statica dei processi?
+S9: Quale è la differenza tra load sharing e dynamic load balancing?
+S9: Quali sono i pro e cons del load sharing?
+S9: Quali sono i pro e cons del dynamic load balancing?
+S10: Quale meccanismo di assegnazione dei processi adotta linux?
+S11: Cosa si intende per "task" in linux?
+S11: Quali sono le due categorie di task in linux?
+S11: Cosa è il nice value?
+S11: Cosa determina la priorità del task in linux?
+S12: Quali sono i due algoritmi di scheduling per SMP in linux?
+S13: Su cosa si basa l'algoritmo O(1) di linux?
+S13: Perché O(1) ha overhead costante?
+S14: Come fa a ridurre la starvation l'O(1)?
+S15: La priorità statica e dinamica in O(1), come funzionano e come alterano il timeslice?
+S16: Cosa introduce il CFS rispetto all'O(1)? E quale è lo svantaggio invece?
+S17: Con CFS, a cosa è proporzionale il time slice dedicato a un task?
+S18: Come fa CFS a scegliere quale task eseguire tra quelli in attesa?
+S18: Da dove nasce la lentezza del CFS?
+S18: Cosa è il virtual clock di un task?
+S19: Cosa è la targeted latency? Cosa impedisce?
+S19: Cosa è la minimum granularity? Cosa impedisce?
+S20: Cosa sono i Cgroups?

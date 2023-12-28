@@ -1,0 +1,17 @@
+S2: Perché virtualizzare le risorse?
+S3: Quale è un esempio di virtualizzazione della CPU?
+S5: Quale è un esempio di virtualizzazione della memoria?
+S8: In che modo viene virtualizzato l'I/O e il file system?
+S10: Perché si dice che il SO è interrupt driven?
+S11: Cosa è e a cosa serve una system call?
+S14: Come si può invocare una system call?
+S19: Quale è la differenza tra librerie di funzioni e librerie standard di sistema?
+S20: Le system call sono lente?
+S22: Come sono architettati i moderni SO?
+S23: Cosa prevede la modularità del SO?
+S23: Quali sono i vantaggi della modularità del SO?
+S26: Il grande kernel-space rappresenta un single point of failure? Perché?
+S28: Quale è il vantaggio dell'architettura a microkernel?
+S29: Quale è lo svantaggio dell'architettura a microkernel?
+S30: Perché si dice che windows ha un SO con architettura ibrida?
+S19: Cosa accade, nel SO, quando un programma utente chiama una "printf"?
