@@ -1,0 +1,24 @@
+S2: Quale è la differenza tra specifica e modulo?
+S3: Cosa fa il preprocessore?
+S4: Cosa fa il compilatore?
+S4: Cosa fa il collegatore?
+S5: Cosa fa il loader?
+S6: Come è fatto il ciclo di sviluppo di un programma? Fai una rappresentazione grafica.
+S7: È vero che le variabili locali di un programma, a tempo di esecuzione, finiscono memorizzate nello stack del processo?
+S9: Cosa è il formato ELF?
+S10: Come posso visualizzare un file .o?
+S10: Quale è la differenza tra l'objdump di un .o e un .exe?
+S11: Cosa è il formato DWARF?
+S13: Cosa contiene una regola di un makefile?
+S13: Cosa si può fare con un makefile?
+S14: Cosa accade col comando make se le versioni dei file .o sono le più recenti?
+S15: Perché nel makefile, la prima regola è il linkaggio e non la compilazione?
+S15: Quale è il vantaggio di usare un makefile?
+S16: Posso definire delle variabili nel makefile?
+S16: Posso invocare una singola regola del makefile?
+S17: A cosa servono le librerie di codice?
+S18: Dove sono incluse le librerie nel path del SO? Fanne una rappresentazione grafica.
+S18: Quale è la differenza tra librerie statiche e dinamiche?
+S19: Cosa significa l'estensione .a?
+S20: Quale è il problema delle librerie statiche?
+S21: Quale è il significato dell'estensione .so?

@@ -1,0 +1,9 @@
+S2: Cosa è UNIX e come è nato?
+S3: Cosa comprende una distribuzione linux?
+S5: Cosa è la shell? Cosa emula?
+S7: Quali sono ad esempio delle cartelle in cui linux potrebbe cercare il comando "cat"?
+S8: Quale è la differenza tra percorso relativo ed assoluto? Cosa significa "CWD"?
+S10: A cosa servono i gruppi per i permessi linux?
+S13: Come posso cambiare un permesso di un file? Chiunque può farlo?
+S14: Quale è la differenza tra i comandi "su" e "sudo"?
+S11: In che formato sono stampati i permessi, tramite comando "ls -l"?

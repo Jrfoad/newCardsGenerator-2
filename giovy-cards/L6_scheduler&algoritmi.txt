@@ -1,0 +1,32 @@
+S2: Quale è la differenza tr I/O e CPU bound? Quali ne sono degli esempi?
+S2: Come fa il SO a identificare i processi I/O e CPU bound?
+S3: Cosa è lo scheduler?
+S4: Quali sono i 3 scheduler attivi nel SO?
+S5: Di cosa si occupa lo scheduler a lungo termine?
+S6: Di cosa si occupa lo scheduler a medio termine?
+S7: Di cosa si occupa lo scheduler a breve termine?
+S8: Cosa è la starvation e da cosa è causata?
+S9: Quale è la differenza tr algoritmi preemptive e non?
+S10: In base a cosa si sceglie lo l'algoritmo di scheduler adatto?
+S12: Quali sono i 5 algoritmi di scheduling a breve termine?
+S12: Quali tra i 5 algoritmi di scheduling a breve termine soffrono di overhead?
+S12: Quali tra i 5 algoritmi di scheduling a breve termine soffrono di starvation?
+S12: Quali tra i 5 algoritmi di scheduling a breve termine sono son preemption?
+S12: Quali tra i 5 algoritmi di scheduling a breve termine soffrono di effetto convoglio?
+S14: Cosa è l'effetto convoglio?
+S14: Perché favorire i processi I/O bound?
+S16: Cosa risolve il RR rispetto al FCFS?
+S16: Perché si chiama "round" robin?
+S16: Cosa succede se nel RR diminuisco troppo il time slice? E se lo aumento?
+S17: Quanto grande scegliere il time slice nel RR?
+S20: Con cosa si effettua la stima del tempo di esecuzione di un processo con SPN?
+S20: Meglio la media esponenziale o aritmetica nel SPN?
+S22: Cosa cambia tra il SRT e lo SPN?
+S23: Quale è la difficoltà nell'utilizzo dello SPN o dello SRT?
+S23: Perché viene detto scheduler "multilevel"?
+S23: Quali tipi di processi ci saranno nella 0esima coda del multilevel?
+S23: Come viene gestita ogni singola coda nel multilevel?
+S24: Come viene gestita l'ultima coda nell'algoritmo con feedback?
+S24: Come fa un processo a ricevere un feedback?
+S24: Perché introdurre un meccanismo di feedback?
+S25: Come si può rimediare alla starvation dei processi più lunghi usando il multilevel feedback?

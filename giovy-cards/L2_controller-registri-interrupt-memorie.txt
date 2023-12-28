@@ -1,0 +1,28 @@
+S2: Come fa un controller ad interfacciarsi col SO?
+S2: Come fa un controller ad interfacciarsi col dispositivo?
+S3: Quali sono i 3 registri del controller?
+S3: Come avviene effettivamente una operazione su controller?
+S4: Quale è la differenza tra gli approcci di polling e interrupt-based? A cosa servono?
+S5: In quanto modi si può accedere a un registro? Quali sono le differenze di funzionamento?
+S5: Perché l'approccio port-mapped I/O è più usato dai sistemi vecchi?
+S7: A cosa servono le interrupt?
+S7: Come si chiama la porzione di codice eseguita alla chiamata di una interrupt?
+S8: A cosa serve l'operazione di Clear Interrupt?
+S10: Quale è la differenza tra interrupt sincrone e asincrone?
+S10: Quali sono degli esempi di "exceptions"?
+S9: Quali sono i tipi di interrupt?
+S11: Cosa sono le interrupt su richiesta? Quali ne sono degli esempi?
+S13: A cosa serve la vector table?
+S13: Dove si memorizza la ISR? E dove la vector table? Perchè?
+S15: Quali sono i 10 step eseguiti dopo una interrupt?
+S16: A cosa serve la divisione in user e kernel mode?
+S16: Come avviene il passaggio tra i due stati di funzionamento user/kernel?
+S16: Cosa è la "iret"?
+S16: Quali sono degli esempi di istruzioni da eseguire in modalità privilegiata?
+S17: A cosa serve la MMU? Perché è necessaria?
+S17: Quali sono i 3 parametri valutativi di una memoria? Quali tipi di memorie ci sono in un elaboratore? Perché ne servono di tipi diversi?
+S18: Cosa indicando cache-hit e cache-miss?
+S18: Quali sono i principi di località delle memorie e perché sono correlati all'esistenza della cache?
+S19: Quale è la differenza tra selezione lineare e associativa?
+S19: Perché la cache utilizza la selezione associativa?
+S20: Perché si dice che le cache "ragionano a blocchi"?

@@ -1,0 +1,19 @@
+S2: Quale è la differenza tra programma e processo? Come li puoi rappresentare graficamente?
+S3: Cosa è lo stato di un processo? Da cosa dipende?
+S4: Perché il modello a 2 stati non è realistico?
+S5: Cosa permette il modello a 3 stati?
+S6: Cosa viene aggiunto nel modello a 5 stati?
+S7: Cosa è lo stato swapped? Perchè è vantaggioso? Rappresenta il modello generale.
+S7: Quando un processo viene swappato, anche il suo PCB finisce su disco?
+S8: Cosa è lo stato zombie Unix? A cosa serve?
+S9: In cosa consiste il context switch?
+S9: Per quanto tempo viene mantenuto in RAM il PCB di un processo?
+S10: A seguito di cosa può avvenire un context switch?
+S11: Quali sono le tre procedure eseguite ad ogni context switch? Rappresenta la loro esecuzione.
+S12: Quale comando permette di vedere la lista dei processi su linux?
+S14: Cosa è il descrittore di un processo?
+S14: Cosa è la process table?
+S16: Quale è la differenza tra process table e text table?
+S17: Chi decide quale processo va in esecuzione?
+S19: La coda dei processi bloccati, è FIFO?
+S19: Perché un processo appena sbloccato dovrebbe saltare la fila della coda dei processi pronti? Rappresenta il problema.

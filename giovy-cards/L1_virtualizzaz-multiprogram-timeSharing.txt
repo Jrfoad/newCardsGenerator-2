@@ -1,0 +1,7 @@
+S2: Quali sono i 3 motivi che hanno reso necessario inventare i SO?
+S4: Quale è la struttura generale di un sistema di elaborazione?
+S6: In cosa consiste il single-user system? Quale è la sua efficienza?
+S7: Come è fatto un batch system? Quale è il suo svantaggio?
+S9: In cosa consiste un sistema multiprogrammato?
+S11: Quale è la differenza tra sistemi multiprogrammati e sistemi con time sharing?
+S13: Quali sono i pro e i cons del time sharing?
